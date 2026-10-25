@@ -1,17 +1,25 @@
 
 # Hello World - SDM Internship
 
-This is my first Node.js project for my internship.
+My first Node.js project created as part of my internship.
 
-## Objective
-Learn Node.js, VS Code, Git, and GitHub.
+## Objectives
+- Learn Node.js basics.
+- Understand Git version control.
+- Practice pushing code to GitHub.
+
+## Requirements
+- Node.js
+- Git
 
 ## How to Run
-Run the following command in the terminal:
+Run the following command:
 
-```bash
-node index.js
-```
+    node index.js
 
 ## Expected Output
-Hello, World!
+- Hello, World!
+- Welcome to my internship project.
+
+## Author
+Your Name
